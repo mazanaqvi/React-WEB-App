@@ -1,0 +1,93 @@
+.loginbtn {
+  background-color: white;
+  border: 2px solid black;
+
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.startproject {
+  background-color: black;
+  border: 2px solid black;
+  color: white;
+  margin-left: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px 32px;
+  font-size: 16px;
+}
+.startproject:hover {
+  background-color: rgb(3, 45, 54);
+}
+.firstpara {
+  background-color: rgb(237, 245, 242);
+  height: 380px;
+}
+.firstparatext {
+  margin-left: 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px 32px;
+  font-size: 16px;
+}
+.orangepink {
+  color: rgb(255, 178, 153);
+}
+.orangepinkbg {
+  background-color: rgb(255, 178, 153);
+  height: 380px;
+}
+.lightgreen {
+  color: rgb(184, 204, 198);
+}
+.lightgreenbg {
+  background-color: rgb(184, 204, 198);
+  color: black;
+
+  padding: 3px;
+
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.profilebtn {
+  background-color: black;
+  border: 2px solid black;
+  color: white;
+  width: 250px;
+  margin-top: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px 32px;
+  font-size: 16px;
+}
+.darkgreen {
+  color: rgb(25, 86, 100);
+}
+.darkgreenbg {
+  background-color: rgb(22, 29, 33);
+  height: 980px;
+}
+.profilebtn:hover {
+  background-color: rgb(3, 45, 54);
+}
+
+.lighttext {
+  text-align: center;
+  color: white;
+  padding-left: 10px;
+  padding: 10px;
+  margin-left: 10px;
+}
+.dd {
+  color: black;
+}
+.dd:hover {
+  color: rgb(255, 178, 153);
+}
